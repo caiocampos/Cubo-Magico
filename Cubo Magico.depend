@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1366844776 source:f:\dropbox\ufu\cg\cubo magico\main.cpp
+	<cstdlib>
+	<cstdio>
+	"cubo.h"
+	"seta.h"
+
+903468286 f:\programas\portable\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1366053481 source:c:\users\reuel\dropbox\ufu\cg\cubo magico\main.cpp
+	<cstdlib>
+	<cstdio>
+	"cubo.h"
+	"seta.h"
+
+903468286 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1366051932 source:f:\dropbox\ufu\cg\cubo magico\quadrado.cpp
+	"quadrado.h"
+
+1366036198 f:\dropbox\ufu\cg\cubo magico\quadrado.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1366051932 source:c:\users\reuel\dropbox\ufu\cg\cubo magico\quadrado.cpp
+	"quadrado.h"
+
+1365972835 c:\users\reuel\dropbox\ufu\cg\cubo magico\quadrado.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1366053404 source:c:\users\reuel\dropbox\ufu\cg\cubo magico\cubo.cpp
+	"cubo.h"
+
+1366043386 c:\users\reuel\dropbox\ufu\cg\cubo magico\cubo.h
+	<vector>
+	"quadrado.h"
+
+1366051837 c:\users\reuel\dropbox\ufu\cg\cubo magico\ext.h
+
+1366053255 source:c:\users\reuel\dropbox\ufu\cg\cubo magico\seta.cpp
+	"seta.h"
+
+1366052306 c:\users\reuel\dropbox\ufu\cg\cubo magico\seta.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1366043386 f:\dropbox\ufu\cg\cubo magico\cubo.h
+	<vector>
+	"quadrado.h"
+
+1366051837 f:\dropbox\ufu\cg\cubo magico\ext.h
+
+1366052306 f:\dropbox\ufu\cg\cubo magico\seta.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1366053255 source:f:\dropbox\ufu\cg\cubo magico\seta.cpp
+	"seta.h"
+
+1366823772 source:f:\dropbox\ufu\cg\cubo magico\cubo.cpp
+	"cubo.h"
+
+1366053404 source:d:\reuel\dropbox\ufu\cg\cubo magico\cubo.cpp
+	"cubo.h"
+
+1366043386 d:\reuel\dropbox\ufu\cg\cubo magico\cubo.h
+	<vector>
+	"quadrado.h"
+
+1365972835 d:\reuel\dropbox\ufu\cg\cubo magico\quadrado.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+903468286 d:\program files (x86)\codeblocks\glutdlls37beta\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1366051837 d:\reuel\dropbox\ufu\cg\cubo magico\ext.h
+
+1366822370 source:d:\reuel\dropbox\ufu\cg\cubo magico\main.cpp
+	<cstdlib>
+	<cstdio>
+	"cubo.h"
+	"seta.h"
+
+1366052306 d:\reuel\dropbox\ufu\cg\cubo magico\seta.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1366051932 source:d:\reuel\dropbox\ufu\cg\cubo magico\quadrado.cpp
+	"quadrado.h"
+
+1366053255 source:d:\reuel\dropbox\ufu\cg\cubo magico\seta.cpp
+	"seta.h"
+
+1366823772 source:d:\caio\dropbox\ufu\cg\cubo magico\cubo.cpp
+	"cubo.h"
+
+1366043386 d:\caio\dropbox\ufu\cg\cubo magico\cubo.h
+	<vector>
+	"quadrado.h"
+
+1365972835 d:\caio\dropbox\ufu\cg\cubo magico\quadrado.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1368290960 c:\program files (x86)\codeblocks\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1368290960 c:\program files (x86)\codeblocks\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1366051837 d:\caio\dropbox\ufu\cg\cubo magico\ext.h
+
+1374874572 source:d:\caio\dropbox\ufu\cg\cubo magico\main.cpp
+	<cstdlib>
+	<cstdio>
+	"cubo.h"
+	"seta.h"
+
+1366052306 d:\caio\dropbox\ufu\cg\cubo magico\seta.h
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	"ext.h"
+
+1366051932 source:d:\caio\dropbox\ufu\cg\cubo magico\quadrado.cpp
+	"quadrado.h"
+
+1366053255 source:d:\caio\dropbox\ufu\cg\cubo magico\seta.cpp
+	"seta.h"
+
